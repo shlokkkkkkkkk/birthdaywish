@@ -1,0 +1,481 @@
+/* =========================================
+      IMPORT FONTS
+========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Great+Vibes&display=swap');
+
+/* =========================================
+      RESET
+========================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow: hidden;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+
+    background: linear-gradient(135deg,
+            #ffffff,
+            #dff5ff,
+            #ffe6f2,
+            #fff7d6);
+
+    background-size: 400% 400%;
+    animation: gradient 12s ease infinite;
+    overflow-y: auto;
+}
+
+/* ========================================= */
+
+@keyframes gradient {
+
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+
+}
+
+/* =========================================
+        LOADING SCREEN
+========================================= */
+
+#loading {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    z-index: 99999;
+
+}
+
+.loader {
+
+    width: 90px;
+    height: 90px;
+
+    border-radius: 50%;
+
+    border: 8px solid #ffd4e5;
+    border-top: 8px solid deeppink;
+
+    animation: rotate 1s linear infinite;
+
+}
+
+@keyframes rotate {
+
+    100% {
+        transform: rotate(360deg);
+    }
+
+}
+
+#loading h2 {
+
+    margin-top: 30px;
+    color: #ff4f91;
+    font-weight: 600;
+
+}
+
+/* =========================================
+      PAGE
+========================================= */
+
+.page {
+
+    position: absolute;
+
+    top: 0;
+    left: 100%;
+
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    transition: 1s;
+    overflow: hidden;
+
+}
+
+.page.active {
+    left: 0;
+}
+
+.page.previous {
+    left: -100%;
+}
+
+/* =========================================
+      TITLE
+========================================= */
+
+.birthdayTitle {
+
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+
+    color: #ff2d7d;
+
+    opacity: 0;
+
+    text-shadow:
+        0 0 10px white,
+        0 0 20px pink,
+        0 0 45px hotpink;
+
+    animation:
+        titleFade 2s forwards,
+        floatText 4s ease infinite;
+
+    animation-delay: 2s;
+
+}
+
+@keyframes titleFade {
+
+    from {
+        opacity: 0;
+        transform: translateY(120px) scale(.4);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+}
+
+@keyframes floatText {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-12px);
+    }
+
+}
+
+/* =========================================
+      GLASS CARD
+========================================= */
+
+.glassCard {
+
+    width: 90%;
+    max-width: 650px;
+
+    padding: 50px;
+
+    background: rgba(255, 255, 255, .22);
+
+    backdrop-filter: blur(18px);
+
+    border-radius: 30px;
+
+    border: 1px solid rgba(255, 255, 255, .5);
+
+    box-shadow: 0 15px 40px rgba(0, 0, 0, .18);
+
+    text-align: center;
+
+}
+
+.glassCard h1 {
+
+    font-size: 3rem;
+    color: #ff3b87;
+
+    animation: heartbeat 1.5s infinite;
+
+}
+
+.glassCard h2 {
+
+    margin-top: 15px;
+    font-size: 1.5rem;
+    color: #6a1b9a;
+
+}
+
+/* ========================================= */
+
+@keyframes heartbeat {
+
+    0% {
+        transform: scale(1);
+    }
+
+    20% {
+        transform: scale(1.08);
+    }
+
+    40% {
+        transform: scale(1);
+    }
+
+    60% {
+        transform: scale(1.08);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+
+}
+
+/* =========================================
+      BUTTONS
+========================================= */
+
+button {
+
+    margin-top: 35px;
+
+    padding: 18px 55px;
+
+    font-size: 22px;
+
+    border: none;
+
+    border-radius: 50px;
+
+    cursor: pointer;
+
+    color: white;
+
+    background: linear-gradient(45deg,
+            #ff4f91,
+            #ff80ab);
+
+    box-shadow: 0 0 25px rgba(255, 20, 147, .6);
+
+    transition: .35s;
+
+    position: relative;
+    overflow: hidden;
+
+}
+
+button:hover {
+
+    transform: scale(1.08);
+
+    box-shadow: 0 0 40px deeppink;
+
+}
+
+button::before {
+
+    content: "";
+
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    width: 0;
+    height: 0;
+
+    background: rgba(255, 255, 255, .4);
+
+    border-radius: 50%;
+
+    transform: translate(-50%, -50%);
+
+    transition: .6s;
+
+}
+
+button:hover::before {
+
+    width: 320px;
+    height: 320px;
+
+}
+
+/* =========================================
+      QUESTION PAGE
+========================================= */
+
+#page3 {
+
+    background: linear-gradient(135deg,
+            #fff,
+            #ffe6f2,
+            #dff7ff);
+
+}
+
+#page3 h1 {
+
+    font-size: 2.5rem;
+    color: #ff3d88;
+
+}
+
+#page3 h2 {
+
+    margin-top: 20px;
+    font-size: 2rem;
+    color: #6a1b9a;
+
+}
+
+.buttons {
+
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+
+}
+
+/* ==================== TREE SURPRISE STYLES ==================== */
+#tree-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#start-card {
+    text-align: center;
+}
+
+#start-card button {
+    padding: 12px 28px;
+    font-size: 1.2rem;
+    background-color: #ff4b72;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(255, 75, 114, 0.4);
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+#start-card button:hover {
+    transform: scale(1.05);
+    background-color: #e03a5f;
+}
+
+#container {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#container.active {
+    display: flex;
+}
+
+#text-box {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.msg-line {
+    font-size: 1.3rem;
+    color: #ff3d88;
+    margin: 6px 0;
+    font-weight: 600;
+}
+
+/* FORCE GALLERY SCROLL & FIX IMAGE OVERFLOW */
+#page4 {
+    overflow-y: auto !important;
+}
+
+.photo img {
+    width: 100% !important;
+    max-height: 220px !important;
+    object-fit: cover !important;
+}
+
+/* =========================================
+      FLOWERS CONTAINER
+========================================= */
+
+#flowers {
+
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+
+    pointer-events: none;
+
+}
+
+/* 2-COLUMN SIDE-BY-SIDE GRID */
+.gallery {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 12px !important;
+    width: 90% !important;
+    max-width: 600px !important;
+    margin: 10px auto !important;
+}
+
+.photo {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 8px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.photo img {
+    width: 100% !important;
+    height: 220px !important;
+    object-fit: cover !important;
+    border-radius: 8px;
+}
+
+.photo p {
+    font-size: 11px !important;
+    margin-top: 6px !important;
+    text-align: center;
+}
