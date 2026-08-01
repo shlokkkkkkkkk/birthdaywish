@@ -208,16 +208,16 @@ const gallery = document.querySelector(".gallery");
 // Matching your exact file names from VS Code
 const galleryPages = [
     [
-        { img: "assets/photo1.jpg", caption: "And even if loving you meant the end of me, i would still love you enndlessly❤️" },
-        { img: "assets/photo2.jpg", caption: "kaise dekhun mai kisi aur ko, ki meri aankhon mein sirf ap ho . Nazaare laakh haseen sahi , magar meri nazar mein khoobsurat sirf ap ho 🌸" },
-        { img: "assets/photo3.jpg", caption: "kabhi jo kehdu mohabbat hai tumse tho mujhko khudaara galat mat samjhna , ki meri zaroorat ho tum , bhaut khoobsurat ho tum  💖" },
-        { img: "assets/photo4.jpg", caption: "  ki marte waqt likhunga apka nam apni hatali pr, mujhe iss duniya se khali hath nhe jana ❤️" }
+        { img: "photo1.jpg", caption: "And even if loving you meant the end of me, i would still love you enndlessly❤️" },
+        { img: "photo2.jpg", caption: "kaise dekhun mai kisi aur ko, ki meri aankhon mein sirf ap ho . Nazaare laakh haseen sahi , magar meri nazar mein khoobsurat sirf ap ho 🌸" },
+        { img: "photo3.jpg", caption: "kabhi jo kehdu mohabbat hai tumse tho mujhko khudaara galat mat samjhna , ki meri zaroorat ho tum , bhaut khoobsurat ho tum  💖" },
+        { img: "photo4.jpg", caption: "  ki marte waqt likhunga apka nam apni hatali pr, mujhe iss duniya se khali hath nhe jana ❤️" }
     ],
     [
-        { img: "assets/photo5.jpg", caption: "mere hisse mein chand bhi aya tho thukra dunga usey, mai humesha tumhe he dekhta rahunga 🥰" },
-        { img: "assets/photo6.jpg", caption: "kabhi lafz bhool jau , kabhi bat bhul jau tujhe iss kadar chahu ki ishq ki awakt bhul jau🌹" },
-        { img: "assets/photo7.jpg", caption: "ki meri mohabbat ko ap ky aazmaoge , jan se zadya mujhse aur ky he manghoge . meri mohabbat sitaaro jaise hai , ky app unn sitaro ko ginn pauge ❤️" },
-        { img: "assets/photo8.jpg", caption: "ki mujhko khud ki liye jagha nhe milti, ap ho mojud iss kadar mujhme" }
+        { img: "photo5.jpg", caption: "mere hisse mein chand bhi aya tho thukra dunga usey, mai humesha tumhe he dekhta rahunga 🥰" },
+        { img: "photo6.jpg", caption: "kabhi lafz bhool jau , kabhi bat bhul jau tujhe iss kadar chahu ki ishq ki awakt bhul jau🌹" },
+        { img: "photo7.jpg", caption: "ki meri mohabbat ko ap ky aazmaoge , jan se zadya mujhse aur ky he manghoge . meri mohabbat sitaaro jaise hai , ky app unn sitaro ko ginn pauge ❤️" },
+        { img: "photo8.jpg", caption: "ki mujhko khud ki liye jagha nhe milti, ap ho mojud iss kadar mujhme" }
     ]
 ];
 
