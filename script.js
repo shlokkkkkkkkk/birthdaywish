@@ -351,10 +351,14 @@ const typing = document.getElementById("typing");
 
 function typeLetter() {
     if (!typing) return;
+    
+    // Calculates delay so the whole text finishes typing in 10 seconds total
+    const speed = Math.max(1, Math.floor(10000 / birthdayLetter.length));
+
     if (typingIndex < birthdayLetter.length) {
         typing.innerHTML += birthdayLetter.charAt(typingIndex);
         typingIndex++;
-        setTimeout(typeLetter, 35);
+        setTimeout(typeLetter, speed);
     }
 }
 
