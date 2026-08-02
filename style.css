@@ -514,7 +514,7 @@ button:hover::before {
     margin-top: 6px !important;
     text-align: center;
 }
-/* Force Scrollbar on Letter */
+
 #typewriter, 
 .letter-box, 
 .letter-content, 
@@ -529,3 +529,4 @@ button:hover::before {
 .letter-modal, #letter-screen, .container {
     overflow-y: auto !important;
 }
+
