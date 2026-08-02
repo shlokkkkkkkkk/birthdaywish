@@ -515,15 +515,17 @@ button:hover::before {
     text-align: center;
 }
 
-#typewriter, 
-.letter-box, 
-.letter-content, 
+#typing,
+#typewriter,
+.letter-box,
+.letter-content,
 .typewriter-container,
 .modal-body {
-    max-height: 70vh !important;
-    overflow-y: scroll !important;
-    -webkit-overflow-scrolling: touch !important;
+    max-height: 50vh !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
     display: block !important;
+    -webkit-overflow-scrolling: touch !important;
 }
 
 .letter-modal, #letter-screen, .container {
