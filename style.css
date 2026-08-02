@@ -21,7 +21,7 @@ html {
 
 body {
     width: 100%;
-    height: 100vh;
+    max-height: 100vh;
     font-family: 'Poppins', sans-serif;
 
     background: linear-gradient(135deg,
@@ -52,7 +52,42 @@ body {
     }
 
 }
+/* ==========================================
+   SCROLLABLE LETTER CONTAINER
+   ========================================== */
+.letter-container, 
+#letter, 
+.paper, 
+.card,
+.message-container,
+#typewriter-text {
+    max-height: 80vh !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    padding: 25px !important;
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+    -webkit-overflow-scrolling: touch;
+}
 
+/* Custom Pretty Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ff758c;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ff4757;
+}
 /* =========================================
         LOADING SCREEN
 ========================================= */
