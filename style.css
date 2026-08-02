@@ -514,3 +514,18 @@ button:hover::before {
     margin-top: 6px !important;
     text-align: center;
 }
+/* Force Scrollbar on Letter */
+#typewriter, 
+.letter-box, 
+.letter-content, 
+.typewriter-container,
+.modal-body {
+    max-height: 70vh !important;
+    overflow-y: scroll !important;
+    -webkit-overflow-scrolling: touch !important;
+    display: block !important;
+}
+
+.letter-modal, #letter-screen, .container {
+    overflow-y: auto !important;
+}
