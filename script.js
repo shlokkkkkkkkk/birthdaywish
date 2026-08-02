@@ -297,7 +297,7 @@ And if this curl world pull us apart I would cross stormy seas , fight every mon
 
 I can’t love anyone that way i love you , even I don’t want to . I can never take you out of me , you’re living inside my eyes and deep in my heart and soul too
 I never held you , never touched you not even once and that’s what that the true love is caz before any kinda touch our soul blend in each other 
-“Not even my lungs years for air like a years for you “
+“Not even my lungs years for air like i years for you “
 I was never like this before but when i am around you i’ve no control on me , i feel powerless 
 I walked in with pride and left only with love your eyes did the rest 
 Oh my love I sought eternity in your eyes .
