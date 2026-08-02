@@ -532,3 +532,20 @@ button:hover::before {
     overflow-y: auto !important;
 }
 
+/* FORCE TEXT TO FIT ON SCREEN WITHOUT SCROLLING */
+#typing, 
+#typewriter, 
+.letter-content, 
+.typewriter-container,
+.letter-box {
+    font-size: 10px !important;
+    line-height: 1.2 !important;
+    max-height: 85vh !important;
+    overflow: hidden !important;
+    margin: 0 auto !important;
+    padding: 10px !important;
+}
+
+#typing p, #typewriter p {
+    margin-bottom: 4px !important;
+}
