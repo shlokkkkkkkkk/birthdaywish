@@ -268,7 +268,7 @@ It is the day the most beautiful soul came into this world.
 
 Thank you for every smile, every laugh, and every sweet moment.
 May all your dreams come true.
-।  heyy sweeta , ohh idk where to start am caz you know where well I have said everything before only and now nothing left to say but still no matter how much I explain what you mean to me or how much i love you I’ll never express it through words what you mean to me 
+heyy sweeta , ohh idk where to start am caz you know where well I have said everything before only and now nothing left to say but still no matter how much I explain what you mean to me or how much i love you I’ll never express it through words what you mean to me 
 At the very first when i meet you i was scared to like you , then when i liked you , i was scared to love you . Now i am in love with you and I’m scared of losing you 
 I wish I will explain what you mean to me. I wish words for enough to express how I feel for you. It’s the way my heart, calm down, You are not someone I admire, but you are the feeling. I never knew I was missing now that I have finally found you. I don’t know without you.
 
