@@ -543,8 +543,8 @@ button:hover::before {
 .letter-content, 
 .typewriter-container,
 .letter-box {
-    font-size: 13.5px !important;
-    line-height: 1.5 !important;
+    font-size: 15px !important;
+    line-height: 2 !important;
     max-height: 80vh !important;
     overflow: scroll !important;
     margin: 20 auto !important;
