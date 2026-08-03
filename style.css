@@ -547,7 +547,7 @@ button:hover::before {
     line-height: 1.5 !important;
     max-height: 80vh !important;
     overflow: scroll !important;
-    margin: 0 auto !important;
+    margin: 20 auto !important;
     padding: 10px 15px !important;
 }
 
