@@ -261,14 +261,12 @@ if (prevG) {
         TYPEWRITER LETTER
 =========================================== */
 const birthdayLetter =
-    `Happy Birthday My Aaira ❤️
-
-Today is not just another day.
+    `Happy Birthday My Everything ❤️
 It is the day the most beautiful soul came into this world.
 
 Thank you for every smile, every laugh, and every sweet moment.
 May all your dreams come true.
-heyy sweeta , ohh idk where to start am caz you know where well I have said everything before only and now nothing left to say but still no matter how much I explain what you mean to me or how much i love you I’ll never express it through words what you mean to me 
+heyy sweeta , ohh idk where to start am caz you know where well I have said everything before only and now nothing left to say but still no matter how much I explain what you mean to me or how much i love you I’ll never be able to express it through words what you mean to me 
 At the very first when i meet you i was scared to like you , then when i liked you , i was scared to love you . Now i am in love with you and I’m scared of losing you 
 I wish I will explain what you mean to me. I wish words for enough to express how I feel for you. It’s the way my heart, calm down, You are not someone I admire, but you are the feeling. I never knew I was missing now that I have finally found you. I don’t know without you.
 
@@ -276,10 +274,10 @@ I meet you at the lowest part of life
 But still you loved me , you loved me 
 Not when i had everything , especially you loved me when I didn’t 
 You held my heart with the gentle hands , teaching me that love was never supposed to hurt . You made me feel like home in the world that had always felt unfamiliar 
-I had forgotten what it felt like to be loved , safe . THEN I MET YOU, as long as i have you i have everything i need . You’re an answered prayer of mine i’m really glad you are in my life. If it wouldn’t for you, then I wouldn’t be the person I am .you  have change my life in ways that you would ever imagine. Thank you, thank you for being patient when I’m not my best. I’m helping me get out of my mind when I am overthinking. I’m really grateful for you.
-You cane in and you you like a shot of espresso, like being bathed in sunlight, you’re incredibly energetic and enthusiastic 
+I had forgotten what it felt like to be loved , safe . THEN I MET YOU, as long as i have you i have everything i need . You’re an answered prayer of mine i’m really glad you are in my life. If it wouldn’t for you, then I wouldn’t be the person I am .you  have change my life in ways that you would ever imagine.( you meet thousands of people and none of them really touch you and then you meet one person and you life has changed forever) Thank you, thank you for being patient when I’m not my best. I’m helping me get out of my head when I am overthinking. I’m really grateful for you.
+You came in and you like a shot of espresso, like being bathed in sunlight, you’re incredibly energetic and enthusiastic 
 And now that life put us together , i wish that the life will be gentle with us and keep us together as long as i breathe .
-“I’m gonna be with you fir the long haul until they put me in the ground “
+“I’m gonna be with you for the long haul until they put me in the ground “
 And when i die , mix my ashes with the soil of your favourite flowers. I spent my life trying to belong to you , let me try again this time without a heart 
 
 “I love you in a way that would worry a therapist and thrill a poet “
@@ -293,7 +291,7 @@ And anyone who see you they will get a shot of sunshine and that one day they go
 They can’t love you the way i do 
 “ jab bhi apke baare mein kitaab likhunga main apke honthon ko gulab likhunga apki aankho ki sharab likhunga , likhunga apka rani pariyon ki aur fir khud ko nawab likhunga saleeqa sikhaya jayega mohabbat ka jab kahin , apke har andaz ko adab likhunga higa sawal jannat ka jab kahi mai apki bahon ko jawab likhunga , jab bhi apke bare mai kitaab likhunga 
 
-And if this curl world pull us apart I would cross stormy seas , fight every monster, and spend years finding my way back to you .
+And if this curl world pull us apart I would cross stormy seas , fight every monster, and spend years finding my way back to you . (sorry but effect of watching alot movies) 
 
 I can’t love anyone that way i love you , even I don’t want to . I can never take you out of me , you’re living inside my eyes and deep in my heart and soul too
 I never held you , never touched you not even once and that’s what that the true love is caz before any kinda touch our soul blend in each other 
@@ -324,12 +322,6 @@ Jahan ko to rab ka hai Hume tera hai sahaara Bas tera saath ho, chaahe jo baat h
 Tere kehne se kar jayenge Hum mar jayenge
 This song realised me that we worship the people we love we make them our religion, our god we run to them when we want to heal, love , cry , smile 
 I never believed in god god but after you god made believe in him 
-
-मेरे दिल की राहतों का तू ज़रिया बन गयी है
-तेरे इश्क़ की मेरे दिल में कई ईद मन गयी है
-तेरा ज़िक्र हो रहा है तेरा ज़िक्र हो रहा है
-इबादत की तरह तुझे याद कर लिया है
-ओ तुझे याद कर लिया है आयात की तरह हा हो
  
 You always had a problem why i says i love you all the time 
 It is because my soul doesn’t know how to stay quiet around you 
@@ -340,11 +332,11 @@ To be haunted and healed by the same three words over and over again
 I love you 
 I’m to the point where i needed a stronger word than ily for this woman 
 Seeing you happy is that all i want with me or without me no matters where life take me i’ll always love you 
-And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with absence I fears that what would I become in your absence or idk even I’ll survive but i wish i say i miss you in a ways that will make your heart ache as mine does 
+And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive but i wish i say i miss you in a ways that will make your heart ache as mine does 
 I have everything in life everything but i read it somewhere and its says  “zindagi tumhe sab kuch dekr bhi ek cheez ke liya fakir bana deti  hai “
 You know why i admires you so much not because the way you look or the way you laugh or the way you makes me feels alive but because of your character your soul you’re Soo beautiful from inside even I can’t put it in words and i’ll never find the reason why i love you so much 
-And on this special day actually you’re special for me whole 365 days but still i have a surprise for you that I’ll show you later and i promise you you’ll be so so so happy seeing that obviously that’s bot for you caz you never accept anything from me but that will from you confuse na right anyway you’ll get to know me and i love you forever end ever
-I love you sarshafr 💗`;
+And on this special day actually you’re special for me all 365 days but still i have a surprise for you that I’ll show you later on and i promise you you’ll be so so so happy seeing that , you never accept anything from me but that will from you confuse na right anyway you’ll get to know and i love you forever end ever
+I love you sarshar 💗`;
 
 let typingIndex = 0;
 const typing = document.getElementById("typing");
