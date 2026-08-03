@@ -333,10 +333,9 @@ I love you
 I’m to the point where i needed a stronger word than ily for this woman 
 Seeing you happy is that all i want with me or without me no matters where life take me i’ll always love you 
 And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive but i wish i say i miss you in a ways that will make your heart ache as mine does 
-I have everything in life everything but i read it somewhere and its says  “zindagi tumhe sab kuch dekr bhi ek cheez ke liya fakir bana deti  hai “
 You know why i admires you so much not because the way you look or the way you laugh or the way you makes me feels alive but because of your character your soul you’re Soo beautiful from inside even I can’t put it in words and i’ll never find the reason why i love you so much 
 And on this special day actually you’re special for me all 365 days but still i have a surprise for you that I’ll show you later on and i promise you you’ll be so so so happy seeing that , you never accept anything from me but that will from you confuse na right anyway you’ll get to know and i love you forever end ever
-I love you sarshar 💗`;
+I love you sarshar 💗 `;
 
 let typingIndex = 0;
 const typing = document.getElementById("typing");
