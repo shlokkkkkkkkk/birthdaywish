@@ -291,7 +291,7 @@ And anyone who see you they will get a shot of sunshine and that one day they go
 They can’t love you the way i do 
 “ jab bhi apke baare mein kitaab likhunga main apke honthon ko gulab likhunga apki aankho ko sharab likhunga , likhunga apko rani pariyon ki aur fir khud ko nawab likhunga saleeqa sikhaya jayega mohabbat ka jab kahin , apke har andaz ko adab likhunga hoga sawal jannat ka jab kahi mai apki bahon ko jawab likhunga , jab bhi apke bare mai kitaab likhunga 
 
-And if this curl world pull us apart I would cross stormy seas , fight every monster, and spend years finding my way back to you . ( sorry but movies effect you kow right ) 
+And if this curl world pull us apart I would cross stormy seas , fight every monster, and spend years finding my way back to you . ( sorry but movies effect you know right ) 
 
 I can’t love anyone that way i love you , even I don’t want to . I can never take you out of me , you’re living inside my eyes and deep in my heart and soul too
 I never held you , never touched you not even once and that’s what that the true love is caz before any kinda touch our soul blend in each other 
