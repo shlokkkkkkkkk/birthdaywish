@@ -468,3 +468,54 @@ function createFloatingHeart() {
 
 // Spawn a new heart every 600ms
 setInterval(createFloatingHeart, 600);
+
+/* ==========================================
+   MATHEMATICAL HEART CANVAS (PAGE 6)
+========================================== */
+const canvas = document.getElementById("heartCanvas");
+if (canvas) {
+    const ctx = canvas.getContext("2d");
+
+    // Auto-resize canvas for clear rendering
+    canvas.width = 400;
+    canvas.height = 400;
+
+    let scaleIndex = 11;
+    let iIndex = 0;
+
+    function drawHeart() {
+        if (scaleIndex >= 17) return; // Done rendering heart
+
+        const scale = scaleIndex;
+        const i = iIndex;
+        const angle = i * (Math.PI * 2) / 120;
+
+        // Parametric equations for the mathematical heart curve
+        const x = 16 * Math.pow(Math.sin(angle), 3) * scale;
+        const y = -(13 * Math.cos(angle) - 5 * Math.cos(2 * angle) - 2 * Math.cos(3 * angle) - Math.cos(4 * angle)) * scale;
+
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2 - 20;
+
+        ctx.fillStyle = "#ffb6c1";
+        ctx.font = "8px Arial";
+        ctx.textAlign = "center";
+        ctx.fillText("I love you", centerX + x, centerY + y);
+
+        iIndex++;
+        if (iIndex >= 120) {
+            iIndex = 0;
+            scaleIndex++;
+        }
+
+        setTimeout(drawHeart, 15); // Adjust drawing animation speed
+    }
+
+    // Trigger animation when Page 6 loads
+    window.startHeartAnimation = function() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        scaleIndex = 11;
+        iIndex = 0;
+        drawHeart();
+    };
+}
