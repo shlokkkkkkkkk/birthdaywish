@@ -211,13 +211,13 @@ const galleryPages = [
         { img: "photo1.jpg", caption: "And even if loving you meant the end of me, i would still love you enndlessly❤️" },
         { img: "photo2.jpg", caption: "kaise dekhun mai kisi aur ko, ki meri aankhon mein sirf ap ho . Nazaare laakh haseen sahi , magar meri nazar mein khoobsurat sirf ap ho 🌸" },
         { img: "photo3.jpg", caption: "kabhi jo kehdu mohabbat hai tumse tho mujhko khudaara galat mat samjhna , ki meri zaroorat ho tum , bhaut khoobsurat ho tum  💖" },
-        { img: "photo4.jpg", caption: "  ki marte waqt likhunga apka nam apni hatali pr, mujhe iss duniya se khali hath nhe jana ❤️" }
+        { img: "photo4.jpg", caption: " A face i swear that i could spend my whole life knowing ❤️" }
     ],
     [
-        { img: "photo5.jpg", caption: "mere hisse mein chand bhi aya tho thukra dunga usey, mai humesha tumhe he dekhta rahunga 🥰" },
-        { img: "photo6.jpg", caption: "kabhi lafz bhool jau , kabhi bat bhul jau tujhe iss kadar chahu ki ishq ki awakt bhul jau🌹" },
-        { img: "photo7.jpg", caption: "ki meri mohabbat ko ap ky aazmaoge , jan se zadya mujhse aur ky he manghoge . meri mohabbat sitaaro jaise hai , ky app unn sitaro ko ginn pauge ❤️" },
-        { img: "photo8.jpg", caption: "ki mujhko khud ki liye jagha nhe milti, ap ho mojud iss kadar mujhme" }
+        { img: "photo5.jpg", caption: "kabhi lafz bhool jau , kabhi bat bhul jau tujhe iss kadar chahu ki ishq ki awakt bhul jau. khuda se maangu tho itna maangu tujheke sajde mein jhuku aur apni zaat bhul jau, likhne pe aau tho tujhpe puri kitaab likh du mein " },
+        { img: "photo6.jpg", caption: "koi naam le tera tho lehjaa apna likh du main teri aankho ke aaine main yun aks dekhu apna ki main kaun ho kaha hu har bat bhul jau kabhi lafz bhool jau , kabhi bat bhul jau teri aawaz mai nam sun apna har awaz bhul jau main  🌹" },
+        { img: "photo7.jpg", caption: "mere hisse mein chand bhi aya tho thukra dunga usey, mai humesha tumhe he dekhta rahunga ❤️" },
+        { img: "photo8.jpg", caption: "mujhe khud ki liye jagha nhe milti, ap ho mojud iss kadar mujhme" }
     ]
 ];
 
@@ -274,7 +274,8 @@ I meet you at the lowest part of life
 But still you loved me , you loved me 
 Not when i had everything , especially you loved me when I didn’t 
 You held my heart with the gentle hands , teaching me that love was never supposed to hurt . You made me feel like home in the world that had always felt unfamiliar 
-I had forgotten what it felt like to be loved , safe . THEN I MET YOU, as long as i have you i have everything i need . You’re an answered prayer of mine i’m really glad you are in my life. If it wouldn’t for you, then I wouldn’t be the person I am .you  have change my life in ways that you would ever imagine.( you meet thousands of people and none of them really touch you and then you meet one person and you life has changed forever) Thank you, thank you for being patient when I’m not my best. I’m helping me get out of my head when I am overthinking. I’m really grateful for you.
+I had forgotten what it felt like to be loved , safe . THEN I MET YOU, as long as i have you i have everything i need . You’re an answered prayer of mine i’m really glad you are in my life. If it wouldn’t for you, then I wouldn’t be the person I am .you  have change my life in ways that you would ever imagine.
+( you meet thousands of people and none of them really touch you and then you meet one person and you life has changed forever) Thank you, thank you for being patient when I’m not my best. I’m helping me get out of my head when I am overthinking. I’m really grateful for you.
 You came in and you like a shot of espresso, like being bathed in sunlight, you’re incredibly energetic and enthusiastic 
 And now that life put us together , i wish that the life will be gentle with us and keep us together as long as i breathe .
 “I’m gonna be with you for the long haul until they put me in the ground “
@@ -315,7 +316,7 @@ To build and orphanage on you’re name
 To help the people 
 Maybe that’s not enough to say a thank to a god for sending you in life 
 
-Remember on day you asked me what songs reminds me of you 
+Remember on day you asked me what songs reminds me of you but everything ,every song reminds me of you 
 Soo , Chahe dukh ho Chahe sukh ho
 Dil ne tujhko hi pukara Tune humko hai banaaya Tune humko hai sanvaara
 Jahan ko to rab ka hai Hume tera hai sahaara Bas tera saath ho, chaahe jo baat ho
@@ -333,8 +334,16 @@ I love you
 I’m to the point where i needed a stronger word than ily for this woman 
 Seeing you happy is that all i want with me or without me no matters where life take me i’ll always love you 
 And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive and if i lose you , l lose everything not because you'r everything i have but beacuse you mean everything to me you have become such a big part of my life that imagining a future without you feels impossible and that is how i know how much i love you but i wish i say i miss you in a ways that will make your heart ache as mine does 
-You know why i admires you so much not because the way you look or the way you laugh or the way you makes me feels alive but because of your character your soul you’re Soo beautiful from inside even I can’t put it in words and i’ll never find the reason why i love you so much . and on this day the only thing i can give you is that i promise to always be by your side or under you , or on top of you but always with you but i can't promise you that i can always solve all your problems or be able to take them away , but i can promise you that you will never have to face them alone . and i know you think a lot about us about the end what will happen and all, but i need you to know that whatever happens it was worth it to me. being with you , loving you it was all worth it ,you worth it caz "you'r mine" 
-actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you but i do a little more 
+You know why i admires you so much not because the way you look or the way you laugh or the way you makes me feels alive but because of your character your soul you’re Soo beautiful from inside even I can’t put it in words and i’ll never find the reason why i love you so much . and on this day the only thing i can give you is that i promise to always be by your side or under you , or on top of you but always with you but i can't promise you that i can always solve all your problems or be able to take them away , but i can promise you that you will never have to face them alone .
+and i know you think a lot about us about the end what will happen and all, but i need you to know that whatever happens it was worth it to me. being with you , loving you it was all worth it ,you worth it caz "you'r mine" If there are 14,000,604 ways to lose you...
+and only one where I end up with you 
+I'll make that one happen. iloveyou in every universe , i love you 3000
+ i don't you remember or not but of all the things you've ever said, one still lives in my heart
+
+"Don't come to convince me after a fight... because if you do, I'll be convinced. ignoring all the odds "
+You called it a warning.
+I heard it as love. is the reason i never give up on you and never will 
+okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you , i do a little more 
 I love you sarshar 💗 `;
 
 let typingIndex = 0;
