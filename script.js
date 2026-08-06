@@ -280,6 +280,7 @@ You came in and you like a shot of espresso, like being bathed in sunlight, you�
 And now that life put us together , i wish that the life will be gentle with us and keep us together as long as i breathe .
 “I’m gonna be with you for the long haul until they put me in the ground “
 And when i die , mix my ashes with the soil of your favourite flowers. I spent my life trying to belong to you , let me try again this time without a heart 
+i still remember the way your name started sounding softer in my own head , like my heart had decided to protect it before i even realized i love you 
 
 “I love you in a way that would worry a therapist and thrill a poet “
 Even god 
