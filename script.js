@@ -75,7 +75,7 @@ const music = document.getElementById("music");
 
 document.body.addEventListener("click", () => {
     if (music && music.paused) {
-        music.volume = 0.4;
+        music.volume = 0.8;
         music.play().catch(() => { });
     }
 }, { once: true });
@@ -331,7 +331,7 @@ It slips out in silence, in the middle of the fight , in between unfinished sent
 I love you not as a habit but as a confession my body keeps spilling even when my mind is tired of trying to explain 
 I love you in a ways I don’t even understand yet like muscle memory like first breath after drowning like gravity refusing to let go and maybe that’s a curse or maybe that’s a gift 
 To be haunted and healed by the same three words over and over again 
-I love you <br>
+I love you 
 I’m to the point where i needed a stronger word than ily for this woman 
 Seeing you happy is that all i want with me or without me no matters where life take me i’ll always love you 
 And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive and if i lose you , l lose everything not because you'r everything i have but beacuse you mean everything to me you have become such a big part of my life that imagining a future without you feels impossible and that is how i know how much i love you but i wish i say i miss you in a ways that will make your heart ache as mine does 
@@ -344,6 +344,7 @@ I'll make that one happen. iloveyou in every universe , i love you 3000
 "Don't come to convince me after a fight... because if you do, I'll be convinced. ignoring all the odds "
 You called it a warning.
 I heard it as love. is the reason i never give up on you and never will 
+- you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you , i do a little more 
 I love you sarshar 💗 `;
 
