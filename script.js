@@ -303,8 +303,11 @@ I walked in with pride and left only with love your eyes did the rest
 Oh my love I sought eternity in your eyes .
 When the dirt covers my chest it won’t be heavier than the love i carried for you 
 “I love you in a way that religion would forbid. 
+
+
 Taint me in your sins , love lay your wounds upon me , i worship you in a way that gods would envy “
 You’re beautiful like a painting meant to be stared and get completely lost in , as if light forgets roses and choses you instead, as if the sun for one selfish moment wanted to take a glance at you 
+
 
 And I’m scared of the love i have  for you , 
 Because i know it will ruin me . 
@@ -339,14 +342,24 @@ You know why i admires you so much not because the way you look or the way you l
 and i know you think a lot about us about the end what will happen and all, but i need you to know that whatever happens it was worth it to me. being with you , loving you it was all worth it ,you worth it caz "you'r mine" If there are 14,000,604 ways to lose you...
 and only one where I end up with you 
 I'll make that one happen. iloveyou in every universe , i love you 3000
+
+
  i don't you remember or not but of all the things you've ever said, one still lives in my heart
 
 "Don't come to convince me after a fight... because if you do, I'll be convinced. ignoring all the odds "
 You called it a warning.
 I heard it as love. is the reason i never give up on you and never will 
+And I know beta you're suffering so much just because of me about your faith and I want you to just Read this with all your heart ....Before your first breath or your first tear, Allah already knew your story and He knew every soul that would belong in it.
+You feel torn, believing that having me in your life distances you from Him. But Allah is (Al-Wadud) the (All-Loving)  not a God of fear who demands you sacrifice your heart’s peace to earn His love.
+I never planned on falling for you this deeply, yet here I am. Nothing in this universe is a coincidence; if He wrote our stories before time began, then He knew we would need each other in this very moment.
+He placed this between us as a mercy for we suffer, not a test to break you. You don't have to choose between allah's love and me He brought us together because He knew your heart needed comfort, and mine needed you.
+If my love was meant to pull you away from Him, He wouldn't have made 'Al-Wadud' (The All-Loving) one of His greatest names. As the poets wrote, love doesn't compete with worship—it softens the heart so you can feel Him even more deeply. beingwith  me wasn't a choice you made against Him; it was a feeling He planted in your heart.
+You don't have to fear that happiness is distance from Allah. he is your happines whatever he does either it's me he does it for you" 🤍
+he knew we needed each other he knew i need you more than anything 
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
-okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you , i do a little more 
-I love you sarshar 💗 `;
+okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
+I love you sarshar 💗 and please ab tho biryani khila do `; 
+
 
 let typingIndex = 0;
 const typing = document.getElementById("typing");
