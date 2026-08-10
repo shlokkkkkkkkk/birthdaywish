@@ -313,7 +313,8 @@ And I’m scared of the love i have  for you ,
 Because i know it will ruin me . 
 And i also know that i will let it .
 
-You made me so humble and a good person a caring person and in life for the first time i wanted to improve myself for you . When i die don’t put flowers with me but just a picture of you in my pocket so i can tell everyone in heaven that who made me a better men and I promise i would be kind for you . I would reject the impulses to indulge in my violent nature for you . I would wake up and get out of bed and hour early every morning to make coffee for you i would be there for you no matter what i would leave the light on for you until you felt safe and i would hold you so tight until you felt at peace.  i would 
+You made me so humble and a good person a caring person and in life for the first time i wanted to improve myself for you . When i die don’t put flowers with me but just a picture of you in my pocket so i can tell everyone in heaven that who made me a better men and I promise i would be kind for you .
+I would reject the impulses to indulge in my violent nature for you . I would wake up and get out of bed and hour early every morning to make coffee for you i would be there for you no matter what i would leave the light on for you until you felt safe and i would hold you so tight until you felt at peace.  i would 
 
 And as long as i live i have only one dream and that is to fulfil your every wish that’s my desires 
 To build and orphanage on you’re name 
@@ -332,16 +333,17 @@ You always had a problem why i says i love you all the time
 It is because my soul doesn’t know how to stay quiet around you 
 It slips out in silence, in the middle of the fight , in between unfinished sentences and in the pause where pain usually lives 
 I love you not as a habit but as a confession my body keeps spilling even when my mind is tired of trying to explain 
-I love you in a ways I don’t even understand yet like muscle memory like first breath after drowning like gravity refusing to let go and maybe that’s a curse or maybe that’s a gift 
+I love you in a ways I don’t even understand yet like muscle memory like first breath after drowning like gravity refusing to let go and maybe that’s a curse or maybe that’s a gift , and it hurts it like my chest physically hurts to not be able to tell you that how much i love you 
 To be haunted and healed by the same three words over and over again 
 I love you 
 I’m to the point where i needed a stronger word than ily for this woman 
 Seeing you happy is that all i want with me or without me no matters where life take me i’ll always love you 
-And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive and if i lose you , l lose everything not because you'r everything i have but beacuse you mean everything to me you have become such a big part of my life that imagining a future without you feels impossible and that is how i know how much i love you but i wish i say i miss you in a ways that will make your heart ache as mine does 
+And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive and if i lose you , l lose everything not because you'r everything i have but beacuse you mean everything to me  you have become such a big part of my life that imagining a future without you feels impossible and that is how i know how much i love you but i wish i say i miss you in a ways that will make your heart ache as mine does 
 You know why i admires you so much not because the way you look or the way you laugh or the way you makes me feels alive but because of your character your soul you’re Soo beautiful from inside even I can’t put it in words and i’ll never find the reason why i love you so much . and on this day the only thing i can give you is that i promise to always be by your side or under you , or on top of you but always with you but i can't promise you that i can always solve all your problems or be able to take them away , but i can promise you that you will never have to face them alone .
 and i know you think a lot about us about the end what will happen and all, but i need you to know that whatever happens it was worth it to me. being with you , loving you it was all worth it ,you worth it caz "you'r mine" If there are 14,000,604 ways to lose you...
-and only one where I end up with you 
-I'll make that one happen. iloveyou in every universe , i love you 3000
+and only one where I end up with you ( well if i'm wrong then what more could i lose )
+but I'll make that one happen. if there are infinite worlds every version of me chooses you in every one of them . If I had Doctor Strange’s Time Stone, I wouldn’t just bend time for you I’d break every law of the universe and tear through every multiverse just to find the one where I get to be with you. 
+iloveyou in every universe , i love you 3000 , 
 
 
  i don't you remember or not but of all the things you've ever said, one still lives in my heart
@@ -353,11 +355,12 @@ And I know beta you're suffering so much just because of me about your faith and
 You feel torn, believing that having me in your life distances you from Him. But Allah is (Al-Wadud) the (All-Loving)  not a God of fear who demands you sacrifice your heart’s peace to earn His love.
 I never planned on falling for you this deeply, yet here I am. Nothing in this universe is a coincidence; if He wrote our stories before time began, then He knew we would need each other in this very moment.
 He placed this between us as a mercy for we suffer, not a test to break you. You don't have to choose between allah's love and me He brought us together because He knew your heart needed comfort, and mine needed you.
-If my love was meant to pull you away from Him, He wouldn't have made 'Al-Wadud' (The All-Loving) one of His greatest names. As the poets wrote, love doesn't compete with worship—it softens the heart so you can feel Him even more deeply. beingwith  me wasn't a choice you made against Him; it was a feeling He planted in your heart.
+If my love was meant to pull you away from Him, He wouldn't have made 'Al-Wadud' (The All-Loving) one of His greatest names. As the poets wrote, love doesn't compete with worship—it softens the heart so you can feel Him even more deeply. being with me wasn't a choice you made against Him; it was a feeling He planted in your heart.
 You don't have to fear that happiness is distance from Allah. he is your happines whatever he does either it's me he does it for you" 🤍 "I never want to be the man who creates distance between you and Allah. Instead, I pray to be the reason you draw even closer to Him a presence in your life that inspires you to bow down in heartfelt prayer, 
-to speak to Him with an overflowing heart, and to thank Him for the peace, care, and happiness we share. My ultimate dream is that whenever you talk to Allah, your spirit is so full that all you want to do is thank Him for 'us.' Because every single day, I bow my head and thank Him for bringing you into my world knowing deep down that a lifetime of gratitude will never truly be enough."
+to speak to Him with an overflowing heart, and to thank Him for the peace, care, and happiness we share. My ultimate dream is that whenever you talk to Allah, your spirit is so full that all you want to do is thank Him for 'us.' Because every single day, I bow my head and thank Him for bringing you into my world knowing deep down that a lifetime of gratitude will never truly be enough." i don't belives in god but after you i do , but i believe that you're my savior
 Rab di marzi hai apna yeh milna ,Barsa hai humpe uska noor.....
 he knew we needed each other , he knew i need you more than anything 
+and if someone asked me about you , heyy she really meant that much to you ,  then i'll give them the most beautiful ans ever  ( i'd give it all up all of it for just one more day with her )
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
 I love you sarshar 💗 and please ab tho biryani khila do `; 
