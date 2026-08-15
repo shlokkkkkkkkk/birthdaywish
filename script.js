@@ -359,7 +359,7 @@ so actually this month was really tough for me and you too i know that you hate 
 and ya i have made many bad mistakes forgive me for all of my faults , all of my failings i'm tired of making mistakes not in the saddle , but in the mind . and ik with my mistakes you  started to hate me and i don't blame you, it was me who made you hate me .. he was not that good but trust me want to be better for you for both of us .
 
 i promis that i'll change everything about myself and the one thing that never changes is that i love you .proof that i have hurt, yes but proof that i have loved . i will fight the world for you , but i never want to fight with you , i'd lose in love for you over and over again , but i'd never lose you 
-and i love you like i can't put it in words . i gave the powere of to love me to heal/cure me and of destroy me to and i beg you not to destroy me yet it happens still it worth it whatever you give love or pain i'll wear it with pride loving you was worth every ounce of my pain it cost me. "i told you once , that only two things will have me you and death " i want you to love me , too but if you can't , then i'll take whatever is left over , and show you it's enough
+and i love you like i can't put it in words . i gave the power of to heal me and to  destroy me  and i beg you not to destroy me , yet it happens still it worth it whatever you give love or pain i'll wear it with pride loving you was worth every ounce of my pain it cost me. "i told you once , that only two things will have me you and death " i want you to love me , too but if you can't , then i'll take whatever is left over , and show you it's enough
 love cannot be explained. it can only be experienced , feels . love cannot be explained , yet it explain it all .
 and promis me when you feels like running away " run towards me "
 
@@ -372,7 +372,7 @@ You don't have to fear that happiness is distance from Allah. he is your happine
 to speak to Him with an overflowing heart, and to thank Him for the peace, care, and happiness we share. My ultimate dream is that whenever you talk to Allah, your spirit is so full that all you want to do is thank Him for 'us.' Because every single day, I bow my head and thank Him for bringing you into my world knowing deep down that a lifetime of gratitude will never truly be enough." i don't belives in god but after you i do , but i believe that you're my savior
 
 he knew we needed each other , he knew i need you more than anything 
-if i was weak and dying i would use the last of my energy to squeeze you hand 3 times to tell you i love you . this heart exists more to love you than to keep me alive 
+if i was weak and dying i would use the last of my energy to squeeze your hand 3 times to tell you i love you . this heart exists more to love you than to keep me alive 
  ( i'd give it all up all of it for just one more day with YOU )
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
