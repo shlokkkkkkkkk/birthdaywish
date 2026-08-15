@@ -371,7 +371,10 @@ If my love was meant to pull you away from Him, He wouldn't have made 'Al-Wadud'
 You don't have to fear that happiness is distance from Allah. he is your happines whatever he does either it's me he does it for you" 🤍 "I never want to be the man who creates distance between you and Allah. Instead, I pray to be the reason you draw even closer to Him a presence in your life that inspires you to bow down in heartfelt prayer, 
 to speak to Him with an overflowing heart, and to thank Him for the peace, care, and happiness we share. My ultimate dream is that whenever you talk to Allah, your spirit is so full that all you want to do is thank Him for 'us.' Because every single day, I bow my head and thank Him for bringing you into my world knowing deep down that a lifetime of gratitude will never truly be enough." i don't belives in god but after you i do , but i believe that you're my savior
 
+
+
 he knew we needed each other , he knew i need you more than anything 
+i'm sorry if sometimes my love feels too much, or if i seem too attached. i never meant to overwhelm you. i just loved you the only way i know how, fully and honestly. maybe i was just trying to give you the kind of love i once wished someone gave me. the kind that stays, that listens, and never walks away too easily. if my love ever felt heavy, please know it always came from a place that was real, soft, and endlessly sincere
 if i was weak and dying i would use the last of my energy to squeeze your hand 3 times to tell you i love you . this heart exists more to love you than to keep me alive 
  ( i'd give it all up all of it for just one more day with YOU )
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
