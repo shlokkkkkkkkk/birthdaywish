@@ -377,6 +377,14 @@ he knew we needed each other , he knew i need you more than anything
 i'm sorry if sometimes my love feels too much, or if i seem too attached. i never meant to overwhelm you. i just loved you the only way i know how, fully and honestly. maybe i was just trying to give you the kind of love i once wished someone gave me. the kind that stays, that listens, and never walks away too easily. if my love ever felt heavy, please know it always came from a place that was real, soft, and endlessly sincere
 if i was weak and dying i would use the last of my energy to squeeze your hand 3 times to tell you i love you . this heart exists more to love you than to keep me alive 
  ( i'd give it all up all of it for just one more day with YOU )
+
+"If I have a chance to find someone again in this life, I'll find you. I'll find you again, again, and again and I'll love you. Beyond the ups and downs, through any obstacles. Everytime. Everywhere. I'll love you even when you give me every reason not to. I'll love you, even if I have a million other options. In every universe, every possibility of existence, every single day, every second-It's You. Always you. Unconditionally you. Unquestionably you. Permanently you. It was you all along, 
+and it will always be you. From the very beginning, until this very moment, and for all eternity-I'll choose you forever. I'll want you forever. With all my heart, mind, and soul. With everything that I am. In each and every way. In every now and then. In every corner of the world. In the morning, at noon, and when the moon is high. I want you without any hesitation. Without any pause. Without any doubt. In the sunshine and the rain. From spring to fall. Throughout the winter and summer. Whatever it is
+I want you. In every season. Completely. Badly. Madly. Beyond words. That's all."
+
+i never told you but i always dream of you the same dream again and again , and it is like . it's we both were together at evening and there a lot's of snow on the ground and that some children's were playing with sonw and you just leaves my hand and run towards it and join them and i was capturing all of you . that was so beautiful that i wish i  had never woken up that day and i wanna live that again i'll make it happen 
+
+ 
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
 I love you sarshar 💗 and please ab tho biryani khila do ` ; 
