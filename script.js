@@ -361,7 +361,7 @@ and ya i have made many bad mistakes forgive me for all of my faults , all of my
 i promis that i'll change everything about myself and the one thing that never changes is that i love you .proof that i have hurt, yes but proof that i have loved . i will fight the world for you , but i never want to fight with you , i'd lose in love for you over and over again , but i'd never lose you 
 and i love you like i can't put it in words . i gave the power of to heal me and to  destroy me  and i beg you not to destroy me , yet it happens still it worth it whatever you give love or pain i'll wear it with pride loving you was worth every ounce of my pain it cost me. "i told you once , that only two things will have me you and death " i want you to love me , too but if you can't , then i'll take whatever is left over , and show you it's enough
 love cannot be explained. it can only be experienced , feels . love cannot be explained , yet it explain it all .
-and promis me when you feels like running away " run towards me "
+and promis me when you feels like running away " run towards me " 
 
 And I know beta you're suffering so much just because of me about your faith and I want you to just Read this with all your heart ....Before your first breath or your first tear, Allah already knew your story and He knew every soul that would belong in it.
 You feel torn, believing that having me in your life distances you from Him. But Allah is (Al-Wadud) the (All-Loving)  not a God of fear who demands you sacrifice your heart’s peace to earn His love.
@@ -380,10 +380,15 @@ if i was weak and dying i would use the last of my energy to squeeze your hand 3
 
 "If I have a chance to find someone again in this life, I'll find you. I'll find you again, again, and again and I'll love you. Beyond the ups and downs, through any obstacles. Everytime. Everywhere. I'll love you even when you give me every reason not to. I'll love you, even if I have a million other options. In every universe, every possibility of existence, every single day, every second-It's You. Always you. Unconditionally you. Unquestionably you. Permanently you. It was you all along, 
 and it will always be you. From the very beginning, until this very moment, and for all eternity-I'll choose you forever. I'll want you forever. With all my heart, mind, and soul. With everything that I am. In each and every way. In every now and then. In every corner of the world. In the morning, at noon, and when the moon is high. I want you without any hesitation. Without any pause. Without any doubt. In the sunshine and the rain. From spring to fall. Throughout the winter and summer. Whatever it is
-I want you. In every season. Completely. Badly. Madly. Beyond words. That's all."
+I want you. In every season. Completely. Badly. Madly. Beyond words. That's all." I HAVE NO REASON TO GIVE UP ON YOU ,even if you shoe me the worst part of yourself i'll still be here i don't care how hard things get or how bad youe mood is sometimes i'll still choose you i won't want anyone else it's always been you and it'll always be you 
 
 i never told you but i always dream of you the same dream again and again , and it is like . it's we both were together at evening and there a lot's of snow on the ground and that some children's were playing with sonw and you just leaves my hand and run towards it and join them and i was capturing all of you . that was so beautiful that i wish i  had never woken up that day and i wanna live that again i'll make it happen 
-
+ there aew only two things left in my life now -- either you hand that i hold .... or a pen i bleed through there is no middle ground 
+ and if god ever ask me " did you love her enough to die for her"??
+ I'll smile and say-
+"Speak her name over my grave... and watch how she brings me back to life."
+I'm afraid even death won't erase you,
+my ashes will still smell like your hair
  
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
