@@ -383,7 +383,7 @@ and it will always be you. From the very beginning, until this very moment, and 
 I want you. In every season. Completely. Badly. Madly. Beyond words. That's all." I HAVE NO REASON TO GIVE UP ON YOU ,even if you show me the worst part of yourself i'll still be here i don't care how hard things get or how bad youe mood is sometimes i'll still choose you i won't want anyone else it's always been you and it'll always be you 
 
 i never told you but i always dream of you the same dream again and again , and it is like . it's we both were together at evening and there a lot's of snow on the ground and that some children's were playing with sonw and you just leaves my hand and run towards it and join them and i was capturing all of you . that was so beautiful that i wish i  had never woken up that day and i wanna live that again i'll make it happen 
- there aew only two things left in my life now -- either you hand that i hold .... or a pen i bleed through there is no middle ground 
+ there are only two things left in my life now -- either you hand that i hold .... or a pen i bleed through there is no middle ground 
  and if god ever ask me " did you love her enough to die for her"??
  I'll smile and say-
 "Speak her name over my grave... and watch how she brings me back to life."
