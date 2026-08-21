@@ -338,7 +338,7 @@ It slips out in silence, in the middle of the fight , in between unfinished sent
 I love you not as a habit but as a confession my body keeps spilling even when my mind is tired of trying to explain 
 I love you in a ways I don’t even understand yet like muscle memory like first breath after drowning like gravity refusing to let go and maybe that’s a curse or maybe that’s a gift , and it hurts it like my chest physically hurts to not be able to tell you that how much i love you 
 To be haunted and healed by the same three words over and over again 
-I love you 
+I love you  
 I’m to the point where i needed a stronger word than ily for this woman 
 Seeing you happy is that all i want with me or without me no matters where life take me i’ll always love you 
 And please don’t push me away even though you’re mad at me caz I can’t handle may self without you I can’t deal with you'r absence I fears that what would I become in your absence or idk even I’ll survive and if i lose you , l lose everything not because you'r everything i have but beacuse you mean everything to me  you have become such a big part of my life that imagining a future without you feels impossible and that is how i know how much i love you but i wish i say i miss you in a ways that will make your heart ache as mine does 
@@ -347,7 +347,7 @@ and i know you think a lot about us about the end what will happen and all, but 
 and only one where I end up with you 
 I'll make that one happen. if there are infinite worlds every version of me chooses you in every one of them . If I had Doctor Strange’s Time Stone, I wouldn’t just bend time for you I’d break every law of the universe and tear through every multiverse just to find the one where I get to be with you. 
 iloveyou in every universe , i love you 3000 , 
-
+" THE PROPHET PBHU SAID  -  IF ONE OF YOU LOVES SOMEONE , LET THEM KNOW , FOR THAT MAKES THE LOVE MORE LASTING "
 
  i don't know you remember or not but of all the things you've ever said, one still lives in my heart
 
@@ -391,6 +391,18 @@ I'm afraid even death won't erase you,
 my ashes will still smell like your hair
  
 - you are in my heart , you shall be in there forever . My greatest wish is that you are happy when you think of me , i am when i think of you 🫶🏻
+
+
+If I could, I would open my chest and place my heart in your hands, not to shock you, not to prove anything dramatic but so you could feel it yourself.
+
+Feel how it trembles at your name.
+
+How it races when you come close.
+
+How every single beat whispers you.
+
+Because maybe then you would understand that this isn't just love I speak of it's something carved into me, something that lives and breathes only for you.
+
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
 I love you sarshar 💗 and please ab tho biryani khila do ` ; 
 
