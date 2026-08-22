@@ -404,7 +404,7 @@ How every single beat whispers you.
 Because maybe then you would understand that this isn't just love I speak of it's something carved into me, something that lives and breathes only for you.
 
 okayyy so actually i have a surprise for you and i promise you’ll be so so so happy seeing that , you never accepted anything from me but that will from you . i love you forever end ever. and once again happy happy happy happy birthday from all of us your dad , mom , sister who ever you love, idk i'm in that or not but we all love you ,but i do a little more 
-I love you sarshar 💗 and please ab tho biryani khila do ` ; 
+I love you sarshar , I Need you  , I want you 💗  .........  and please ab tho biryani khila do ` ; 
 
 
 let typingIndex = 0;
